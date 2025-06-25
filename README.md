@@ -4,6 +4,9 @@ A simple Java project demonstrating communication between distributed systems vi
 
 ---
 
+## Download .jar
+[socket-messenger.jar](https://github.com/victorvcruz/socket-messenger/releases/download/v1.0.0/socket-messenger.jar)
+
 ## Project Structure
 
 ```
